@@ -1,0 +1,111 @@
+/* a{
+margin: 0px;    f
+}
+
+
+
+a{
+    margin-right: 100px;
+    text-decoration: none;
+    padding: 60px;
+} */
+
+#sign{
+    width: 100px;
+    background-color: red;
+    height: 40px; 
+    border-radius: 8px; 
+    color: white; 
+    border: none;
+    margin-right: 10px;
+    border: 0;
+}
+
+/* #img{
+    margin-left: 80%;
+    margin-top: 10%;
+} */
+
+/* #paragraph{
+    margin-bottom: 20px;
+} */
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+    padding: 40px 50px;
+}
+
+.hero-text h1{
+    margin-top: 10px;
+}
+
+.hero-text h4{
+    margin: 0%;
+    margin-bottom: 2opx;
+}
+
+.shop{
+    margin: 40px;
+    background-color: red;
+    height: 40px;
+    width: 95px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+#img{
+    border-radius: 25px;
+    height: 300px;
+}
+
+.logo{
+ font-size: 23px;
+  color:#ff0000;
+  width: 20px;
+  font-weight:700;
+  height: 70px;
+}
+
+.header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: white;
+    
+}
+
+/* .navbar {
+    display: flex;
+    gap:3opx;
+    text-decoration: none;
+} */
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-left: 30px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-top: 40px;
+}
+
+/* .a{
+    height: 100%;
+    width: 100%;
+    background-color: #ff0000;
+}
+
+.b{
+    height: 80%;
+    width: 85%;
+    background-color: ;
+} */
